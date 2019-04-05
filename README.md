@@ -8,7 +8,7 @@ Read the problem statement below, then you can run the appliction with these com
 - `pip3 install requierments.txt`
 - `python3 grocery.py input_files/test.txt`
 
-This runs the appliction and prints out the results. You can use any file in the `input_files` folder. You can run the tests with `python3 -m unittest`. 
+This runs the appliction and prints out the results. You can use any file in the `input_files` folder. You can run the tests with `python3 -m unittest`. Below is the problem statement, I did not write this problem, I am unsure who to credit, if you recognize this, please send me an email.
 
 ## Quick Read
 
