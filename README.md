@@ -1,7 +1,9 @@
 ## Checkout system
 
 Read the problem statement below, then you can run the appliction with these commands:
+- `virtualenv -p python3 checkout`
 - `cd checkout`
+- `pip install -r ../requirements.txt`
 - `source bin/activate`
 - `pip3 install requierments.txt`
 - `python3 grocery.py input_files/test.txt`
