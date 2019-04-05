@@ -1,0 +1,33 @@
+# Build artifacts
+*.egg
+*.egg-info
+*.py[cod]
+.eggs
+.installed.cfg
+bin
+build
+develop-eggs
+dist
+eggs
+include
+lib
+lib64
+parts
+sdist
+var
+pip-selfcheck.json
+
+# Installer logs
+pip-log.txt
+
+# Test artifacts
+*.dat
+.cache
+.coverage*
+.ecosystem
+.tox
+.pytest_cache
+
+
+# System
+.DS_Store
