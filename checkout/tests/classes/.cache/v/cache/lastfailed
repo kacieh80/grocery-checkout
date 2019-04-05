@@ -1,0 +1,7 @@
+{
+  "test_checkout.py": true,
+  "test_customer.py": true,
+  "test_input_file.py": true,
+  "test_register.py": true,
+  "test_trainer.py": true
+}
